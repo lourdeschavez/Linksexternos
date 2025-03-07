@@ -1,0 +1,53 @@
+<html>
+<head>
+    <title>Mi Proyecto Web</title>
+</head>
+     
+    <body style="background-color: #8fdc87;">
+         <a id="menu"><h2>Menu</h2></a>
+        <a href="#persona">Datos Personales</a><br>
+        <a href="#Estudio">Datos de Estudios</a><br>
+        <a href="#labor">Habilidades</a><br>
+        <a href="#otro">Otros</a><br>
+        <a href="#amigos">Datos de Amigos</a><br>
+        <a id="persona"><h2>Datos personales</h2></a>
+    <h1>Bienvenido a Mi Proyecto</h1>
+   
+    <b>Proyecto Curriculum</b><br>
+    <br>
+  <hr size="10" noshade color = "#131515" align = "center">
+   <a id="persona"><h2>Datos Personales</h2></a>
+    <i>Nombre Completo: Lourdes Abigail Gonzalez Chavez  </i><br>
+    <i>Fecha de Nacimiento: 3 de noviembre 2007</i><br>
+     <i>Lugar de Nacimiento: Guatemala </i><br>
+    <i> Correo: lourdesabigailchavez437@gmail.com</i><br>
+     <i>teléfono: 4122 9642</i><br>
+   <a href="#menu">menu</a><br>
+      <hr size="10"  color = "#131515" align = "center">
+
+<a id="Estudio"><h2>Estudios</h2></a>
+    <i>Primaria: emilio arenales catalan </i><br>
+    <i> Basicos: planes del frutal </i><br>
+    <i> Carrera: Instituto Profesional de Computación</i><br>
+ <a href="#menu">menu</a><br>
+ <hr size="10" color = "#131515" align = "center">
+    <a id="labor"><h2>Habilidades</h2></a>
+    <ol>
+  <li>Creatividad</li>
+  <li>organizada</li>
+  <li>Responsabilidad </li>
+  <li>Puntualidad</li>
+</ol>
+         <a href="#menu">menu</a><br>
+        <hr size="10" color = "#131515" align = "center">
+  <a id="otro"><h2>Otros</h2></a>
+    <i>Platzi: Marca personal </i><br>
+    <i> Capacitate para un empleo Computación básica </i><br>
+    <i>Platzi:Programación básica </i><br>
+         <a href="#menu">menu</a><br>
+        
+</body>
+</html>
+        
+</body>
+</html>
